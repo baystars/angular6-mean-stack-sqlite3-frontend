@@ -25,3 +25,13 @@ Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protrac
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+ 2129  vi README.md
+ 2130  ls
+ 2131  ng new frontend
+ 2132  cd frontend/
+ 2133  ng add @angular/material
+ 2134  ng g c components/list
+ 2135  ng g c components/create
+ 2136  ng g c components/edit
+ 2137  history | tail -10
+ 2138  history | tail -10 >> README.md 
