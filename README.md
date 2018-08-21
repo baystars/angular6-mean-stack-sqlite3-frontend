@@ -35,3 +35,5 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
  2136  ng g c components/edit
  2137  history | tail -10
  2138  history | tail -10 >> README.md 
+
+ng g s Issue
