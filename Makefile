@@ -4,5 +4,5 @@ serve:
 serve-open:
 	ng serve --open
 
-serve-kessel:
-	ng serve --host 172.28.2.50 --port 4200 --live-reload true
+serve-network:
+	ng serve --host 192.168.1.11 --port 4200 --live-reload true
